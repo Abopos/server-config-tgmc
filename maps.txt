@@ -95,6 +95,11 @@ map vapor_processing
     disabled
 endmap
 
+map vapor_processing_multi_z
+    voteweight 0
+    disabled
+endmap
+
 map whiskey_outpost_v2
     voteweight 0
 endmap
